@@ -6,7 +6,7 @@
 
 ---
 
-This page is based on the official [ROS installation page](http://wiki.ros.org/melodic/Installation/Ubuntu).
+This page is based on the official. [ROS kinetic installation](http://wiki.ros.org/kinetic/Installation), [ROS melodic installation](http://wiki.ros.org/melodic/Installation).
 
 1. WSL을 엽니다.
 2. `sources.list` 설정하기: 여러분의 컴퓨터가 `packages.ros.org`로부터 소프트웨어 목록을 가져올 수 있도록 설정합니다.
@@ -38,9 +38,14 @@ This page is based on the official [ROS installation page](http://wiki.ros.org/m
 
 5. ROS 패키지를 설치합니다. ROS, rqt, rviz 등이 포함되어 있습니다.
 
-    ```bash
-    sudo apt install ros-melodic-desktop
-    ```
+    - For kinetic (Ubuntu 16.04),
+        ```bash
+        sudo apt install ros-kinetic-desktop
+        ```
+    - For melodic (Ubuntu 18.04),
+        ```bash
+        sudo apt install ros-melodic-desktop
+        ```
 
 6. `rosdep` 초기화. ROS가 일단 설치되면 처음 한번은 `rosdep`를 초기화해야 합니다.
 
@@ -58,10 +63,16 @@ This page is based on the official [ROS installation page](http://wiki.ros.org/m
 
 8. 환경 설정. 이 과정을 진행해야 여러분의 bash 세션마다 자동으로 ROS 환경변수들이 불려지기 때문에 매우 편리합니다.
 
-    ```bash
-    echo "source /opt/ros/melodic/setup.bash" >> ~/.bashrc
-    source ~/.bashrc
-    ```
+    - For kinetic (Ubuntu 16.04),
+        ```bash
+        echo "source /opt/ros/kinetic/setup.bash" >> ~/.bashrc
+        source ~/.bashrc
+        ```
+    - For melodic (Ubuntu 18.04),
+        ```bash
+        echo "source /opt/ros/melodic/setup.bash" >> ~/.bashrc
+        source ~/.bashrc
+        ```
 
     ![source](/img/ros/ros04.PNG)
 

@@ -6,7 +6,7 @@
 
 ---
 
-This page is based on the official [ROS installation page](http://wiki.ros.org/melodic/Installation/Ubuntu).
+This page is based on the official. [ROS kinetic installation](http://wiki.ros.org/kinetic/Installation), [ROS melodic installation](http://wiki.ros.org/melodic/Installation).
 
 1. Open your WSL.
 2. Setup your `sources.list`: Setup your computer to accept software from `packages.ros.org`.
@@ -38,9 +38,14 @@ This page is based on the official [ROS installation page](http://wiki.ros.org/m
 
 5. Install ROS packages: ROS, rqt, rviz, and robot-generic libraries
 
-    ```bash
-    sudo apt install ros-melodic-desktop
-    ```
+    - For kinetic (Ubuntu 16.04),
+        ```bash
+        sudo apt install ros-kinetic-desktop
+        ```
+    - For melodic (Ubuntu 18.04),
+        ```bash
+        sudo apt install ros-melodic-desktop
+        ```
 
 6. Initialize `rosdep`. Once the ROS is installed, it must be initialized.
 
@@ -58,10 +63,16 @@ This page is based on the official [ROS installation page](http://wiki.ros.org/m
 
 8. Environment setup. It's convenient if the ROS environment variables are automatically added to your bash session every time a new shell is launched:
 
-    ```bash
-    echo "source /opt/ros/melodic/setup.bash" >> ~/.bashrc
-    source ~/.bashrc
-    ```
+    - For kinetic (Ubuntu 16.04),
+        ```bash
+        echo "source /opt/ros/kinetic/setup.bash" >> ~/.bashrc
+        source ~/.bashrc
+        ```
+    - For melodic (Ubuntu 18.04),
+        ```bash
+        echo "source /opt/ros/melodic/setup.bash" >> ~/.bashrc
+        source ~/.bashrc
+        ```
 
     ![source](/img/ros/ros04.PNG)
 

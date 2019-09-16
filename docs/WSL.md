@@ -44,7 +44,7 @@ In a nutshell, [**Linux**](https://en.wikipedia.org/wiki/Linux) is a computer op
 
 1. Install Ubuntu. You can just chick [**this link**](https://www.microsoft.com/en-us/p/ubuntu/9nblggh4msv6?activetab=pivot%3Aoverviewtab) or find it by search.
 
-    > **(Caution)** Do not install "Ubuntu 16.04". If there is no numbering, that is not 16.04.
+    > **(Caution)** If there is no numbering, that is up-to-date version.(18.04)
 
     ![wsl](/img/wsl/wsl2.PNG)
 

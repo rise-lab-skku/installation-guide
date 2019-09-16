@@ -46,7 +46,7 @@
 
 1. 우분투를 설치하겠습니다. [**이 링크**](https://www.microsoft.com/en-us/p/ubuntu/9nblggh4msv6?activetab=pivot%3Aoverviewtab)를 클릭하여 설치할 수도 있고 아니면 직접 검색하여 설치해도 됩니다.
 
-    > **(주의)** "Ubuntu 16.04"를 설치하지 마십시오. 만약 숫자가 안 붙어 있다면 16.04는 아닙니다.
+    > **(주의)** 만약 숫자가 안 붙어 있다면 최신 버전을 뜻합니다.(18.04)
 
     ![wsl](/img/wsl/wsl2.PNG)
 
