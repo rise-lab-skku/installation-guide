@@ -44,9 +44,9 @@
 
     ![Windows App Store](/img/wsl/wsl1.PNG)
 
-1. 우분투를 설치하겠습니다. [**이 링크**](https://www.microsoft.com/en-us/p/ubuntu/9nblggh4msv6?activetab=pivot%3Aoverviewtab)를 클릭하여 설치할 수도 있고 아니면 직접 검색하여 설치해도 됩니다.
+1. 우분투 18.04를 설치하겠습니다. [**이 링크**](https://www.microsoft.com/ko-kr/p/ubuntu-1804-lts/9n9tngvndl3q?activetab=pivot:overviewtab)를 클릭하여 설치할 수도 있고 아니면 직접 검색하여 설치해도 됩니다.
 
-    > **(주의)** 만약 숫자가 안 붙어 있다면 최신 버전을 뜻합니다.(18.04)
+    > **(주의)** 만약 숫자가 안 붙어 있다면 최신 버전을 뜻합니다.(2020년 9월 기준 20.04)
 
     ![wsl](/img/wsl/wsl2.PNG)
 
