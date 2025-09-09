@@ -42,15 +42,15 @@ In a nutshell, [**Linux**](https://en.wikipedia.org/wiki/Linux) is a computer op
 
     ![Windows App Store](/img/wsl/wsl1.PNG)
 
-1. Install Ubuntu 20.04. You can just chick [**this link**](https://www.microsoft.com/ko-kr/p/ubuntu-1804-lts/9n9tngvndl3q?activetab=pivot:overviewtab) or find it by search.
+1. Install Ubuntu 20.04. You can just chick [**this link**](https://apps.microsoft.com/detail/9mttcl66cpxj?hl=ko-KR&gl=KR) or find it by search.
 
-    > **(Caution)** If there is no numbering, that is up-to-date version.(20.04, September 2020)
+    > **(Caution)** If there is no numbering, that is up-to-date version.(24.04, September 2025)
 
-    ![wsl](/img/wsl/wsl2.PNG)
+    ![wsl](/img/wsl/wsl_kyu_1.PNG)
 
 1. Now, you can find **Ubuntu** on the Start menu.
 
-    ![wsl](/img/wsl/wsl3.PNG)
+    ![wsl](/img/wsl/wsl_kyu_2.PNG)
 
 1. Open the **Ubuntu** and, after a while, you will see the below.
 
