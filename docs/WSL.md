@@ -42,7 +42,7 @@ In a nutshell, [**Linux**](https://en.wikipedia.org/wiki/Linux) is a computer op
 
     ![Windows App Store](/img/wsl/wsl1.PNG)
 
-1. Install Ubuntu 20.04. You can just chick [**this link**](https://www.microsoft.com/ko-kr/p/ubuntu-1804-lts/9n9tngvndl3q?activetab=pivot:overviewtab) or find it by search.
+1. Install Ubuntu 18.04. You can just chick [**this link**](https://www.microsoft.com/ko-kr/p/ubuntu-1804-lts/9n9tngvndl3q?activetab=pivot:overviewtab) or find it by search.
 
     > **(Caution)** If there is no numbering, that is up-to-date version.(20.04, September 2020)
 

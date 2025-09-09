@@ -48,11 +48,11 @@
 
     > **(주의)** 만약 숫자가 안 붙어 있다면 최신 버전을 뜻합니다.(2025년 9월 기준 24.04)
 
-    ![wsl](/img/wsl/wsl_kyu_1.PNG)
+    ![wsl](/img/wsl/wsl_kyu_1.png)
 
 1. 이제 시작 메뉴에서 **Ubuntu**를 볼 수 있을 겁니다.
 
-    ![wsl](/img/wsl/wsl_kyu_2.PNG)
+    ![wsl](/img/wsl/wsl_kyu_2.png)
 
 1. **Ubuntu**를 열고 잠시 후면 아래의 창을 볼 수 있습니다.
 
