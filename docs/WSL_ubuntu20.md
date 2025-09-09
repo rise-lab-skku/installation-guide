@@ -46,11 +46,11 @@ In a nutshell, [**Linux**](https://en.wikipedia.org/wiki/Linux) is a computer op
 
     > **(Caution)** If there is no numbering, that is up-to-date version.(24.04, September 2025)
 
-    ![wsl](/img/wsl/wsl_kyu_1.PNG)
+    ![wsl](/img/wsl/wsl_kyu_1.png)
 
 1. Now, you can find **Ubuntu** on the Start menu.
 
-    ![wsl](/img/wsl/wsl_kyu_2.PNG)
+    ![wsl](/img/wsl/wsl_kyu_2.png)
 
 1. Open the **Ubuntu** and, after a while, you will see the below.
 

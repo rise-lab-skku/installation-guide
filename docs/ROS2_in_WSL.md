@@ -29,7 +29,7 @@ This page is based on the official. [ROS2 foxy installation](https://docs.ros.or
     curl -s https://raw.githubusercontent.com/ros/rosdistro/master/ros.asc | sudo apt-key add -
     ```
 
-    ![ros](/img/ros/image10.PNG)
+    ![ros](/img/ros/image10.png)
 
 4. Make sure your Debian package index is up-to-date.
 
@@ -37,7 +37,7 @@ This page is based on the official. [ROS2 foxy installation](https://docs.ros.or
     sudo apt update
     ```
 
-    ![ros](/img/ros/image1.PNG)
+    ![ros](/img/ros/image1.png)
 
 5. Install ROS2 foxy packages: ROS2, rqt, rviz, and robot-generic libraries
 
@@ -57,7 +57,7 @@ This page is based on the official. [ROS2 foxy installation](https://docs.ros.or
     rosdep update
     ```
 
-    ![rosdep](/img/ros/image9.PNG)
+    ![rosdep](/img/ros/image9.png)
 
 8. Environment setup. It's convenient if the ROS2 environment variables are automatically added to your bash session every time a new shell is launched:
 
@@ -67,7 +67,7 @@ This page is based on the official. [ROS2 foxy installation](https://docs.ros.or
         source ~/.bashrc
         ```
 
-    ![source](/img/ros/image8.PNG)
+    ![source](/img/ros/image8.png)
 
 9. Dependencies for building packages.
 

@@ -31,7 +31,7 @@ This page is based on the official. [ROS2 foxy installation](https://docs.ros.or
     ```
 
 
-    ![ros](/img/ros/image10.PNG)
+    ![ros](/img/ros/image10.png)
 
 4. 패키지 인덱스를 최신으로 업데이트합니다.
 
@@ -39,7 +39,7 @@ This page is based on the official. [ROS2 foxy installation](https://docs.ros.or
     sudo apt update
     ```
 
-    ![ros](/img/ros/image1.PNG)
+    ![ros](/img/ros/image1.png)
 
 5. ROS2 foxy 패키지를 설치합니다. ROS2, rqt, rviz 등이 포함되어 있습니다.
 
@@ -59,7 +59,7 @@ This page is based on the official. [ROS2 foxy installation](https://docs.ros.or
     rosdep update
     ```
 
-    ![rosdep](/img/ros/image9.PNG)
+    ![rosdep](/img/ros/image9.png)
 
 8. 환경 설정. 이 과정을 진행해야 여러분의 bash 세션마다 자동으로 ROS 환경변수들이 불려지기 때문에 매우 편리합니다.
 
@@ -69,7 +69,7 @@ This page is based on the official. [ROS2 foxy installation](https://docs.ros.or
         source ~/.bashrc
         ```
 
-    ![source](/img/ros/image8.PNG)
+    ![source](/img/ros/image8.png)
 
 9. 패키지 빌드를 위한 의존성을 설치합니다.
 
