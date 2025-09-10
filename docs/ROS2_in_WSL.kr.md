@@ -85,6 +85,12 @@ This page is based on the official. [ROS2 foxy installation](https://docs.ros.or
 
     ![check ros](/img/ros/image7.png)
 
+11. 기타 실습을 위해 필요한 패키지를 설치합니다.
+
+    ```bash
+    sudo apt install python3-rostopic
+    ```
+
 ---
 
 [>> Back to the main page](/README.md)
