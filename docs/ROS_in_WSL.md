@@ -96,8 +96,11 @@ This page is based on the official. [ROS kinetic installation](http://wiki.ros.o
 11. Installing other package for practice
 
     ```bash
+    sudo apt update
     sudo apt install python3-rostopic
     sudo apt install ros-foxy-rqt*
+    sudo apt install ros-foxy-ros2topic
+    sudo strip --remove-section=.note.ABI-tag /usr/lib/x86_64-linux-gnu/libQt5Core.so.5
     ```
 
 ---
