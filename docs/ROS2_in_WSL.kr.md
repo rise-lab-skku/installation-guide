@@ -89,6 +89,7 @@ This page is based on the official. [ROS2 foxy installation](https://docs.ros.or
 
     ```bash
     sudo apt install python3-rostopic
+    sudo apt install ros-foxy-rqt*
     ```
 
 ---

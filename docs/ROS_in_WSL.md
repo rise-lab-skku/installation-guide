@@ -93,4 +93,13 @@ This page is based on the official. [ROS kinetic installation](http://wiki.ros.o
 
 ---
 
+11. Installing other package for practice
+
+    ```bash
+    sudo apt install python3-rostopic
+    sudo apt install ros-foxy-rqt*
+    ```
+
+---
+
 [>> Back to the main page](/README.md)
