@@ -89,7 +89,6 @@ This page is based on the official. [ROS2 foxy installation](https://docs.ros.or
 
     ```bash
     sudo apt update
-    sudo apt install python3-rostopic
     sudo apt install ros-foxy-rqt*
     sudo apt install ros-foxy-ros2topic
     sudo strip --remove-section=.note.ABI-tag /usr/lib/x86_64-linux-gnu/libQt5Core.so.5
